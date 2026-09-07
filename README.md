@@ -6,7 +6,6 @@
 
 ### Gerenciador de clientes com dívidas para um estabelecimento comercial, que elimina a necessidade de anotar as vendas fiado em cadernos. Desenvolvido com ReactJS, NodeJS e outras tecnologias.
 
-### <a href="https://my-clients-kohl.vercel.app/">Clique aqui para visitar a versão atual!<a/>
 ### <a href="https://github.com/MatheusAndrade23/MyClients">Clique aqui para ver o FrontEnd!<a/>
 
 ---
@@ -45,8 +44,6 @@
 - Cors
  	
  #### Banco de Dados: `MongoDB-Atlas!`
-	
- #### Hospedagem: `Vercel!`
  
  <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
